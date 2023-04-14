@@ -119,6 +119,7 @@ Recorder() {
 		;;
 	"ios")
 		Screenrecord
+		Logcat
 		;;
 	esac
 }
